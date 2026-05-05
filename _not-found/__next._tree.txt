@@ -1,2 +1,2 @@
-:HL["/CrossConnectContentCalendar/_next/static/chunks/0u7yce027nyr4.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"kp1-zXzfR7p7_qvOTMpuy"}
+:HL["./_next/static/chunks/0y72j00k4xntp.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Z_rD7asSyg2yIYJEc45Fa"}
